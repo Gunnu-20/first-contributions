@@ -1,5 +1,6 @@
 # Contributors
 - [Ankush Gulia](https://github.com/ankushkgulia)
+- [Gungun Rathore](https://github.com/Gunnu-20)
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
